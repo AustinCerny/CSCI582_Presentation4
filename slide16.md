@@ -24,5 +24,5 @@ A complete cost structure of EC2 can be seen here [4](https://github.com/AustinC
 ***
 
 
-[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide17.md)
 [Prev](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide15.md)
+[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide17.md)
