@@ -10,7 +10,8 @@
 	* Managing execution of programs by multiple computing systems
 	* Managing communications between computing nodes
 	* Both techniques were issued software patients in 2006 [5](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/sources.md)
-***
 
-[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide15.md)
+
+***
 [Prev](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide13.md)
+[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide15.md)
