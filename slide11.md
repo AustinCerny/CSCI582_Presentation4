@@ -2,7 +2,7 @@
 
 *** 
 * Each bucket in a S3 account has a unique-user assigned key
-* This allows objects to be addressable using a HTTP URL
+* This allows objects to be addressable using a HTTP URL  
 `http://s3.amazonaws.com/bucket/key`
 or 
 `http://bucket.s3.amazonaws.com/key`
