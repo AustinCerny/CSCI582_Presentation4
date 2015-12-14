@@ -7,6 +7,8 @@
 #### The most commonly used services by far are
 * Amazon Simple Storage Service (S3)
 * Amazon Elastic Compute Cloud (EC2)
+
+
 *** 
 
 [Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide10.md)
