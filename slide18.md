@@ -15,5 +15,5 @@ Once launched, instances can be copied/monitored etc. from a online dashboard
 
 ***
 
-[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide19.md)
 [Prev](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide17.md)
+[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide19.md)
