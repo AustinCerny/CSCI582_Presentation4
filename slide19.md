@@ -22,8 +22,10 @@
 * Scaling can also be done by changing hardware on existing machines
 	* Increase # cores, RAM etc.
 	* Potentially faster/cheaper, depends on the user
+
+
 ***
 
 
-[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide20.md)
 [Prev](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide18.md)
+[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide20.md)
