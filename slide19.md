@@ -6,8 +6,8 @@
 * Uses Scalr framework
 	* Open-sourced by Amazon in 2008
 
-1) AMI selected as a template
-2) Configure details
+* 1) AMI selected as a template
+* 2) Configure details
 	* Can be left up to Amazon (typically this is expensive)
 	* User can select policies for
 		* How frequently nodes are checked
@@ -15,7 +15,7 @@
 			* RAM/CPU usage rates etc.
 	* 3rd party software can analyze log data and help users optimize these settings
 		
-3) Users select how and when they are notified when instances are created/closed
+* 3) Users select how and when they are notified when instances are created/closed
 
 * Creating new instances is fast but not instantanous
 	* Typically ~10 minutes for medium+ sized machines
