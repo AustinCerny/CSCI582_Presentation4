@@ -7,8 +7,8 @@
 	* In earlier years, uptime was problem but AWS was still considerably better than what organizations could impliment on their own
 * AWS has a wide variety of security features mostly offered for free
 	* All communication between services and data stored internally is encrypted
-	* Most everything that happens on AWS is logged
-*** 
+	* Most everything that happens on AWS is logged  
+***
 
 [Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide09.md)
 [Prev](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide07.md)
