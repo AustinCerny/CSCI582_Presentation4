@@ -17,6 +17,5 @@
 
 ***
 
-
-[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide23.md)
 [Prev](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide21.md)
+[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide23.md)
