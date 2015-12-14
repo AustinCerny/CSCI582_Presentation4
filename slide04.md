@@ -13,5 +13,6 @@
 	* Every day the comapany adds the equivalent of its entire server infrastructre from 10 years ago to AWS
 
 *** 
-[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide05.md)
+
 [Prev](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide03.md)
+[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide05.md)
