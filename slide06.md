@@ -11,5 +11,6 @@
 	* Costs/resource remain similar as a service is scaled
 
 *** 
-[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide07.md)
+
 [Prev](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide05.md)
+[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide07.md)
