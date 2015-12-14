@@ -9,5 +9,6 @@
 	* Low cost and pay for only what you use
 
 *** 
-[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide06.md)
+
 [Prev](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide04.md)
+[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide06.md)
