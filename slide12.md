@@ -13,6 +13,5 @@
 	* Difficult/impossible if companies hosted content internally
 
 ***
-
-[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide13.md)
 [Prev](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide11.md)
+[Next](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide13.md)
