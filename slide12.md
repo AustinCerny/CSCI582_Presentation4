@@ -10,7 +10,7 @@
 	* Date, time, protocol etc.
 
 * Thirdparty tools can provide analytics from this data
-	* Difficult/impossible if companies hosted content internally
+	* Difficult/Impossible if companies stored this content internally
 
 ***
 [Prev](https://github.com/AustinCerny/CSCI582_Presentation4/blob/master/slide11.md)
