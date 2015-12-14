@@ -1,7 +1,7 @@
 # Additional Resources
 # 
 ***
-Sources
+Sources  
 [1] http://www.marketwatch.com/story/analysts-are-talking-500-for-amazon-shares-2015-04-24  
 [2] http://www.forbes.com/sites/benkepes/2014/11/25/scale-beyond-comprehension-some-aws-numbers/  
 [3] http://variety.com/2015/digital/news/netflix-bandwidth-usage-internet-traffic-1201507187/  
